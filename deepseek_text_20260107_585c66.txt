@@ -1,0 +1,20 @@
+[Σύρε ΕΔΩ όλα αυτά τα αρχεία]
+
+index.html                    (το κύριο site)
+README.md                     (θα αντικαταστήσει το υπάρχον)
+LICENSE                       (έχει ήδη το MIT)
+
+/pranks/                      (ΦΑΚΕΛΟΣ - δημιούργησέ τον πρώτα)
+├── fake-update.html
+├── fake-bsod.html
+├── screen-shaker.html
+├── fake-virus-scan.html
+├── mouse-trail.html
+├── password-stealer-fake.html
+├── auto-typing.html
+├── matrix-prank.bat
+├── fake-format.bat
+└── cmd-spammer.bat
+
+/assets/                      (ΠΡΟΑΙΡΕΤΙΚΟ - αν έχεις εικόνες)
+└── preview.png
